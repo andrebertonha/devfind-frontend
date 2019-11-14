@@ -8,3 +8,4 @@
 
 ### Live: https://practical-borg-99ce8c.netlify.com
 ### backend repository: https://github.com/andrebertonha/devfind-backend
+### you can choose one "login" to test the application from https://api.github.com/users
