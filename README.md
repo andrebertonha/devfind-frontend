@@ -6,5 +6,5 @@
 ### yarn install
 ### yarn start
 
-### Live: https://5dcd7baa436616c8d0edc8e7--practical-borg-99ce8c.netlify.com/
+### Live: https://practical-borg-99ce8c.netlify.com
 ### backend repository: https://github.com/andrebertonha/devfind-backend
